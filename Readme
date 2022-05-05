@@ -1,0 +1,4 @@
+mkdir and cd into a "build" folder first, then:
+
+Run "configure .." to configure with CMake
+Run "ninja" to build the program
